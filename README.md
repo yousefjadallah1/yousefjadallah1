@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/yousefjadallah1/yousefjadallah1/assets/136005529/82c88122-df00-4a09-b88c-3377fdb592f6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefjadallah1&label=Profile%20views&color=0e75b6&style=flat" alt="yousefjadallah1" /> </p>
 
-- 🌱 I’m currently learning **Python , AI**
+- 🌱 I’m currently learning **Machine Learning, Python**
 
 - 👨‍💻 Info [https://linktr.ee/yousef_jadallah](https://linktr.ee/yousef_jadallah)
 
