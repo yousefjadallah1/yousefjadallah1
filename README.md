@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/yousefjadallah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousefjadallah1" height="30" width="40" /></a>
 <a href="https://instagram.com/_yousefjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yousefjad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yousefjadallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yousefjadallah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefjadallah1&show_icons=true&locale=en" alt="yousefjadallah1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefjadallah1&" alt="yousefjadallah1" /></p>
- ...
--->
+
+
