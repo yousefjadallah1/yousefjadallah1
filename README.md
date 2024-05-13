@@ -8,11 +8,11 @@
 
 - 👨‍💻 Info [https://linktr.ee/yousef_jadallah](https://linktr.ee/yousef_jadallah)
 
-- 📫 How to reach me **yjadallah1@hotmail.com**
+- 📫 How to reach me **yousef.jadallah@outlook.com**
 
-- 📄 Know about my experiences (CV) [https://drive.google.com/file/d/1xP473IM6YfQKRDDAJySRIYYL8G5Sx9Jm/view?usp=drive_link](https://drive.google.com/file/d/1xP473IM6YfQKRDDAJySRIYYL8G5Sx9Jm/view?usp=drive_link)
+- 📄 Know about my experiences (CV) [Click Here](https://drive.google.com/file/d/1uKX8sixYBeOY5ioqp4J7CTNbUczj_h1U/view?usp=drive_link)
 
-- ⚡ Lebenslauf **https://drive.google.com/file/d/1MPGTF8PSdw6pKDzgKMV4sdGTKJYQI44r/view?usp=drive_link**
+- ⚡ Lebenslauf [Click Here](https://drive.google.com/file/d/1MPGTF8PSdw6pKDzgKMV4sdGTKJYQI44r/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
