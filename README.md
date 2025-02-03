@@ -4,15 +4,14 @@
 <img align="right" alt="coding" width="400" src="https://github.com/yousefjadallah1/yousefjadallah1/assets/136005529/82c88122-df00-4a09-b88c-3377fdb592f6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefjadallah1&label=Profile%20views&color=0e75b6&style=flat" alt="yousefjadallah1" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 Info [https://linktr.ee/yousef_jadallah](https://linktr.ee/yousef_jadallah)
 
 - 📫 How to reach me **yousef.jadallah@outlook.com**
 
-- 📄 Know about my experiences (CV) [Click Here](https://drive.google.com/file/d/1uKX8sixYBeOY5ioqp4J7CTNbUczj_h1U/view?usp=drive_link)
-
-- ⚡ Lebenslauf [Click Here](https://drive.google.com/file/d/1MPGTF8PSdw6pKDzgKMV4sdGTKJYQI44r/view?usp=drive_link)
+- 📄 Know about my experiences (CV) [Click Here](https://drive.google.com/file/d/1enEsZYDQlsANPIKvECHtjTGeH9riF1xw/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
